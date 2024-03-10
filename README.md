@@ -16,7 +16,7 @@ O processo de checkout incluirá informações de entrega e opções de pagament
 Tecnologias Utilizadas
 
 <h1>tecnologias usadas</h1>
-React: Para construir a interface do usuário interativa.
-Firebase Authentication (Google Auth): Para gerenciar a autenticação do usuário.
-Firebase Firestore: Para armazenar informações sobre produtos e usuários.
-CSS/SCSS: Para estilizar os componentes da loja.
+<p>React: Para construir a interface do usuário interativa.</p>
+<p>Firebase Authentication (Google Auth): Para gerenciar a autenticação do usuário.</p>
+<p>Firebase Firestore: Para armazenar informações sobre produtos e usuários.</p>
+<p>CSS/SCSS: Para estilizar os componentes da loja.</p>
