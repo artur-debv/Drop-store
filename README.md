@@ -2,7 +2,7 @@
 <p>Este projeto é uma loja online especializada em periféricos para computadores. Os usuários podem explorar e comprar uma variedade de produtos, desde teclados e mouses até headsets e placas de expansão. Vamos detalhar as principais características:</p>
 
 <h1>Autenticação do Usuário</h1>
-<p>>Os usuários podem se cadastrar e fazer login na loja.</p
+<p>Os usuários podem se cadastrar e fazer login na loja.</p
 <p>Utilizaremos a autenticação do Google (usando o Google Auth) para tornar o processo de login seguro e conveniente.</p>
 <h1>Catálogo de Periféricos</h1>
 <p>Os produtos estarão organizados em categorias (teclados, mouses, headsets etc.).</p>
