@@ -2,17 +2,17 @@
 <p>Este projeto é uma loja online especializada em periféricos para computadores. Os usuários podem explorar e comprar uma variedade de produtos, desde teclados e mouses até headsets e placas de expansão. Vamos detalhar as principais características:</p>
 
 <h1>Autenticação do Usuário</h1>
-Os usuários podem se cadastrar e fazer login na loja.
-Utilizaremos a autenticação do Google (usando o Google Auth) para tornar o processo de login seguro e conveniente.
-Catálogo de Periféricos:
-Os produtos estarão organizados em categorias (teclados, mouses, headsets etc.).
-Os usuários poderão navegar pelo catálogo, visualizar detalhes dos produtos e adicionar itens ao carrinho.
-Criação de Produtos:
-Os administradores da loja terão acesso a uma área de administração.
-Eles poderão adicionar novos produtos ao catálogo, definindo informações como nome, descrição, preço e imagem.
-Checkout dos Produtos:
-Os usuários poderão revisar os itens no carrinho antes de finalizar a compra.
-O processo de checkout incluirá informações de entrega e opções de pagamento.
+<p>>Os usuários podem se cadastrar e fazer login na loja.</p
+<p>Utilizaremos a autenticação do Google (usando o Google Auth) para tornar o processo de login seguro e conveniente.</p>
+<h1>Catálogo de Periféricos</h1>
+<p>Os produtos estarão organizados em categorias (teclados, mouses, headsets etc.).</p>
+<p>Os usuários poderão navegar pelo catálogo, visualizar detalhes dos produtos e adicionar itens ao carrinho.</p>
+<h1>Criação de Produtos:</h1>
+<p>Os administradores da loja terão acesso a uma área de administração.</p>
+<p>Eles poderão adicionar novos produtos ao catálogo, definindo informações como nome, descrição, preço e imagem.</p>
+<h1>Checkout dos Produtos</h1>
+<p>Os usuários poderão revisar os itens no carrinho antes de finalizar a compra.</p>
+<p>O processo de checkout incluirá informações de entrega e opções de pagamento.</p>
 Tecnologias Utilizadas
 
 <h1>tecnologias usadas</h1>
