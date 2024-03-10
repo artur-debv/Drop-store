@@ -1,4 +1,4 @@
-Descrição do Projeto
+<h1>Descrição do Projeto</h1>
 Este projeto é uma loja online especializada em periféricos para computadores. Os usuários podem explorar e comprar uma variedade de produtos, desde teclados e mouses até headsets e placas de expansão. Vamos detalhar as principais características:
 
 Autenticação do Usuário:
