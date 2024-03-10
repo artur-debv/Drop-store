@@ -14,8 +14,8 @@ Checkout dos Produtos:
 Os usuários poderão revisar os itens no carrinho antes de finalizar a compra.
 O processo de checkout incluirá informações de entrega e opções de pagamento.
 Tecnologias Utilizadas
-Para implementar esse projeto, utilizaremos as seguintes tecnologias:
 
+<h1>tecnologias usadas</h1>
 React: Para construir a interface do usuário interativa.
 Firebase Authentication (Google Auth): Para gerenciar a autenticação do usuário.
 Firebase Firestore: Para armazenar informações sobre produtos e usuários.
