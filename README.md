@@ -18,5 +18,10 @@ Tecnologias Utilizadas
 <h1>tecnologias usadas</h1>
 <p>React: Para construir a interface do usuário interativa.</p>
 <p>Firebase Authentication (Google Auth): Para gerenciar a autenticação do usuário.</p>
-<p>Firebase Firestore: Para armazenar informações sobre produtos e usuários.</p>
+<p>Firebase Firestore: Para armazenar informações
+obre produtos e usuários.</p>
 <p>CSS/SCSS: Para estilizar os componentes da loja.</p>
+
+![drop-store](https://github.com/artur-debv/Drop-store/assets/97331300/588e9b67-4b07-4927-9bb3-72f5d87a35e7)
+
+
