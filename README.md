@@ -24,7 +24,9 @@ obre produtos e usuários.</p>
 
 <h1>Deploy</h1>
 
-![drop-store](https://fsw-store-psi-six.vercel.app/)
+[link](https://fsw-store-psi-six.vercel.app/)
+
+
 
 ![drop-store](https://github.com/artur-debv/Drop-store/assets/97331300/588e9b67-4b07-4927-9bb3-72f5d87a35e7)
 
