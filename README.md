@@ -24,7 +24,7 @@ obre produtos e usuários.</p>
 
 <h1>Deploy</h1>
 
-[link](https://fsw-store-psi-six.vercel.app/)
+[Drop store](https://fsw-store-psi-six.vercel.app/)
 
 
 
